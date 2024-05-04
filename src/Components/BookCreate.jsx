@@ -33,14 +33,14 @@ const BookCreate = () => {
             name="title"
             value={title} 
             placeholder='Nhập Title' />
-        <label htmlFor="des">Des</label>
+        <label htmlFor="des">Desc</label>
         <input 
             onChange={handlChangeDes} 
             type="text"
             id="des"
             name="des" 
             value={des}
-            placeholder='Nhập Des'/>
+            placeholder='Nhập Desc'/>
         <input type="submit" value="Create!" />
       </form>
     </div>

@@ -1,6 +1,6 @@
 .item {
   position: relative; 
-  background: linear-gradient(180deg, #adadfd 0%, #e1ffea22 60%);
+  background: linear-gradient(180deg, #adadfd 23%, #e1ffea22 60%);
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   padding: 20px;
